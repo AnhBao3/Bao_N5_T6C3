@@ -19,7 +19,7 @@
 ### ⚡ Fun Fact
 - I'm only 20 years old, but everyone says I act like an 80-year-old man! 😂
 
-
+---
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -29,7 +29,7 @@
     <a href="https://discord.gg/bao.3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/></a>
 </p>
 
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
