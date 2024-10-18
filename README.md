@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mai Gia Bao</h1>
+<h1 align="center">Hi 👋, I'm Bao</h1>
 <h3 align="center">I am a third-year student majoring in information technology at Ho Chi Minh City University of Foreign Languages ​​and Information Technology. I am majoring in Software Technology.</h3>
 
 - 🔭 I’m currently working on [Công nghệ phần mềm Thứ 6 Ca 3](https://github.com/users/AnhBao3/projects/2)
