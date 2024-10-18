@@ -7,9 +7,6 @@
 ### 🚀 Current Projects
 - 🔭 Working on: [Công nghệ phần mềm nâng cao Thứ 6 Ca 3](https://github.com/users/AnhBao3/projects/2)
 
-### 🌱 Learning
-- **Technologies:** Spring Boot, ExpressJS, ASP.NET Core, Java, ReactJS, PHP
-
 ### 👨‍💻 GitHub Repositories
 - All projects are available at: [GitHub Profile](https://github.com/AnhBao3?tab=repositories)
 
@@ -68,8 +65,6 @@
 ### 🎨 Design Tools
 <p align="left">
     <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-    <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
 </p>
 
 ### 🔧 Frameworks
