@@ -4,14 +4,15 @@
 
 ---
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 ### 🚀 Current Projects
 - 🔭 Working on: [Công nghệ phần mềm nâng cao Thứ 6 Ca 3](https://github.com/users/AnhBao3/projects/2)
 
 ### 👨‍💻 GitHub Repositories
 - All projects are available at: [GitHub Profile](https://github.com/AnhBao3?tab=repositories)
-
-### 💬 Ask Me About
-- MySQL, Microsoft SQL Server, MongoDB
 
 ### 📫 Contact Me
 - Email: **tammai1899@gmail.com**
@@ -85,4 +86,3 @@
 Credit: [Gia Bao](https://github.com/anhbao3)
 
 Last Edited on: 18/10/2024
-
