@@ -77,3 +77,8 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
 </p>
 
+<div align='center'>
+
+## <b>Thanks youuuuuuu...✨</b>
+
+</div>
