@@ -32,7 +32,6 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<br>
 ### 💻 Programming Languages
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
@@ -48,7 +47,6 @@
    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
 </p>
-<br>
 ### 📱 Mobile Development
 <p align="left">
     <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
@@ -61,17 +59,14 @@
    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
    <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
 </p>
-<br>
 ### 🎨 Design Tools
 <p align="left">
     <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
 </p>
-<br>
 ### 🔧 Frameworks
 <p align="left">
    <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
 </p>
-<br>
 ### ☁️ Cloud and Other Technologies
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
@@ -88,11 +83,7 @@
 
 </div>
 <br>
-<br>
-
-
 ---
-
 <br>
 
 Credit: [Gia Bao](https://github.com/anhbao3)
